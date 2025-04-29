@@ -70,7 +70,7 @@ Key features include:
 
 
 🎥 **Project Demo Video:**  
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jOgYmIV3hdM" frameborder="0" allowfullscreen></iframe>  
+[![Tourwise Demo Video](https://img.youtube.com/vi/jOgYmIV3hdM/0.jpg)](https://www.youtube.com/watch?v=jOgYmIV3hdM)
 
 🔗 **GitHub Repository:** [Tourwise Code](https://github.com/Skyeee3/COMP47360-Smart-Tourist-Guide)
 
