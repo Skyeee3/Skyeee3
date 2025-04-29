@@ -3,7 +3,7 @@
 I'm a passionate **Computer Science graduate** from University College Dublin 🇮🇪 (First Class Honours).  
 I enjoy building **full-stack applications** 🖥️ and exploring cloud and distributed systems ☁️.
 
-I recently completed my Master’s in Computer Science** at UCD with a GPA of 3.75, demonstrating both adaptability and strong technical understanding.  
+I recently completed my Master’s in Computer Science at UCD with a GPA of 3.75, demonstrating both adaptability and strong technical understanding.  
 During my studies, I collaborated on several full-stack projects using technologies like React, Spring Boot, and Flask, gaining solid hands-on experience across the entire development stack.
 
 These experiences not only strengthened my technical skills but also enhanced my ability to work effectively in a team, communicate clearly, and adapt quickly to new technologies and challenges.  
