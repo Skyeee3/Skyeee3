@@ -1,14 +1,14 @@
 # Hi there, I'm Boyu Wang 👋
 
-I'm a passionate **Computer Science graduate** from **University College Dublin** 🇮🇪 (**First Class Honours**).  
-I enjoy building **full-stack applications** 🖥️ and exploring **cloud and distributed systems** ☁️.
+I'm a passionate **Computer Science graduate** from University College Dublin 🇮🇪 (First Class Honours).  
+I enjoy building **full-stack applications** 🖥️ and exploring cloud and distributed systems ☁️.
 
-I recently completed my **Master’s in Computer Science** at UCD with a **GPA of 3.75**, demonstrating both **adaptability** and strong **technical understanding**.  
-During my studies, I collaborated on several **full-stack projects** using technologies like **React**, **Spring Boot**, and **Flask**, gaining solid hands-on experience across the entire development stack.
+I recently completed my Master’s in Computer Science** at UCD with a GPA of 3.75, demonstrating both adaptability and strong technical understanding.  
+During my studies, I collaborated on several full-stack projects using technologies like React, Spring Boot, and Flask, gaining solid hands-on experience across the entire development stack.
 
-These experiences not only strengthened my **technical skills** but also enhanced my ability to **work effectively in a team**, **communicate clearly**, and **adapt quickly** to new technologies and challenges.  
-I strongly believe in **learning by doing** — I enjoy **solving problems**, **building things from scratch**, and turning **abstract ideas into real-world solutions**.  
-Now, I'm excited to bring both my **technical expertise** and **strong soft skills** into real-world software engineering roles.
+These experiences not only strengthened my technical skills but also enhanced my ability to work effectively in a team, communicate clearly, and adapt quickly to new technologies and challenges.  
+I strongly believe in learning by doing — I enjoy solving problems, building things from scratch, and turning abstract ideas into real-world solutions.  
+Now, I'm excited to bring both my technical expertise and strong soft skills into real-world software engineering roles.
 
 ---
 
@@ -16,8 +16,8 @@ Now, I'm excited to bring both my **technical expertise** and **strong soft skil
 
 ## 🙋 About Me
 - 💼 **Stamp 1G visa holder**, available for software engineering opportunities.
-- 🔥 Strong interest in **full-stack development**, **scalable system design**, and **cloud-native technologies**.
-- 🧠 Solid foundation in **algorithms**, **databases**, and **backend engineering**.
+- 🔥 Strong interest in full-stack development, scalable system design, and cloud-native technologies.
+- 🧠 Solid foundation in algorithms, databases, and backend engineering.
 
 ---
 
@@ -52,6 +52,23 @@ Now, I'm excited to bring both my **technical expertise** and **strong soft skil
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white" alt="Jira"/>
 </p>
+
+
+---
+
+## 🧭 Featured Project: Tourwise
+
+**Tourwise** is a smart tourist guide platform designed to enhance travel experiences for visitors in Manhattan.  
+Built with **Spring Boot**, **Java**, **PostgreSQL**, and **React**, it provides users with personalized itineraries and real-time updates by integrating external APIs for weather and events.
+
+Key features:
+- Personalized travel route generation based on real-time data
+- Backend built with scalable RESTful APIs using Spring Boot
+- Frontend designed with React for smooth and responsive user experience
+- Data synchronization with PostgreSQL and external APIs
+- Collaboration using Agile methodologies and Jira for task management
+
+🎥 **Project Demo Video:** [Watch Here](https://drive.google.com/file/d/1iKGmjVRYQEAxcXXw-jvIYO3FfOB1FZ2_/view)
 
 ---
 
