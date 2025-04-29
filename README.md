@@ -69,7 +69,9 @@ Key features include:
 - **Development and Deployment:** Implement automated deployment pipelines for faster development and testing cycles, with reliable testing protocols and strict adherence to clean coding practices.
 
 
-🎥 **Demo Video:** [Watch Here](https://drive.google.com/file/d/1iKGmjVRYQEAxcXXw-jvIYO3FfOB1FZ2_/view)
+🎥 **Project Demo Video:**  
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jOgYmIV3hdM" frameborder="0" allowfullscreen></iframe>  
+
 🔗 **GitHub Repository:** [Tourwise Code](https://github.com/Skyeee3/COMP47360-Smart-Tourist-Guide)
 
 ---
