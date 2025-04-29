@@ -61,12 +61,13 @@ Now, I'm excited to bring both my technical expertise and strong soft skills int
 **Tourwise** is a smart tourist guide platform designed to enhance travel experiences for visitors in Manhattan.  
 Built with **Spring Boot**, **Java**, **PostgreSQL**, and **React**, it provides users with personalized itineraries and real-time updates by integrating external APIs for weather and events.
 
-Key features:
-- Personalized travel route generation based on real-time data
-- Backend built with scalable RESTful APIs using Spring Boot
-- Frontend designed with React for smooth and responsive user experience
-- Data synchronization with PostgreSQL and external APIs
-- Collaboration using Agile methodologies and Jira for task management
+Key features include:
+- **Map Integration:** Display users' real-time location via GPS and show nearby Points of Interest (POIs) within a dynamic radius.
+- **Predictive Analytics:** Integrate weather forecasts and predict crowd densities at POIs based on historical and research-based models, considering distance and time variations.
+- **Recommendation System:** Rank POIs based on proximity, user preferences, and affiliate business priorities to deliver tailored suggestions.
+- **Cross-Platform Compatibility:** Ensure a seamless experience across both desktop and mobile devices.
+- **Development and Deployment:** Implement automated deployment pipelines for faster development and testing cycles, with reliable testing protocols and strict adherence to clean coding practices.
+
 
 🎥 **Demo Video:** [Watch Here](https://drive.google.com/file/d/1iKGmjVRYQEAxcXXw-jvIYO3FfOB1FZ2_/view)
 🔗 **GitHub Repository:** [Tourwise Code](https://github.com/Skyeee3/COMP47360-Smart-Tourist-Guide)
