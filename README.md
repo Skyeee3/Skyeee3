@@ -56,7 +56,7 @@ Now, I'm excited to bring both my technical expertise and strong soft skills int
 
 ---
 
-## 🧭 Featured Project: Tourwise
+## 🗺️ Featured Project: Tourwise
 
 **Tourwise** is a smart tourist guide platform designed to enhance travel experiences for visitors in Manhattan.  
 Built with **Spring Boot**, **Java**, **PostgreSQL**, and **React**, it provides users with personalized itineraries and real-time updates by integrating external APIs for weather and events.
