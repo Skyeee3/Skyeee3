@@ -4,7 +4,7 @@ I'm a passionate Computer Science graduate from University College Dublin 🇮�
 I enjoy building full-stack applications 🖥️ and exploring cloud and distributed systems ☁️.
 
 ---
-
+![](https://komarev.com/ghpvc/?username=Skyeee3&label=Profile%20views&color=0e75b6&style=flat) 
 ## 🙋 About Me
 - 💼 Stamp 1G visa holder, available for software engineering opportunities.
 - 🔥 Strong interest in full-stack development, scalable system design, and cloud-native technologies.
