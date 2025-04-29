@@ -1,22 +1,23 @@
 # Hi there, I'm Boyu Wang 👋
 
-I'm a passionate Computer Science graduate from University College Dublin 🇮🇪 (First Class Honours).  
-I enjoy building full-stack applications 🖥️ and exploring cloud and distributed systems ☁️.
+I'm a passionate **Computer Science graduate** from **University College Dublin** 🇮🇪 (**First Class Honours**).  
+I enjoy building **full-stack applications** 🖥️ and exploring **cloud and distributed systems** ☁️.
 
-I recently completed my Master’s in Computer Science at UCD with a GPA of 3.75, demonstrating both adaptability and strong technical understanding.  
-During my studies, I collaborated on several full-stack projects using technologies like React, Spring Boot, and Flask, gaining solid hands-on experience across the entire development stack.
+I recently completed my **Master’s in Computer Science** at UCD with a **GPA of 3.75**, demonstrating both **adaptability** and strong **technical understanding**.  
+During my studies, I collaborated on several **full-stack projects** using technologies like **React**, **Spring Boot**, and **Flask**, gaining solid hands-on experience across the entire development stack.
 
-These experiences not only strengthened my technical skills but also enhanced my ability to work effectively in a team, communicate clearly, and adapt quickly to new technologies and challenges.  
-I strongly believe in learning by doing — I enjoy solving problems, building things from scratch, and turning abstract ideas into real-world solutions.  
-Now, I'm excited to bring both my technical expertise and strong soft skills into real-world software engineering roles.
+These experiences not only strengthened my **technical skills** but also enhanced my ability to **work effectively in a team**, **communicate clearly**, and **adapt quickly** to new technologies and challenges.  
+I strongly believe in **learning by doing** — I enjoy **solving problems**, **building things from scratch**, and turning **abstract ideas into real-world solutions**.  
+Now, I'm excited to bring both my **technical expertise** and **strong soft skills** into real-world software engineering roles.
+
 ---
 
 ![](https://komarev.com/ghpvc/?username=Skyeee3&label=Profile%20views&color=0e75b6&style=flat) 
 
 ## 🙋 About Me
-- 💼 Stamp 1G visa holder, available for software engineering opportunities.
-- 🔥 Strong interest in full-stack development, scalable system design, and cloud-native technologies.
-- 🧠 Solid foundation in algorithms, databases, and backend engineering.
+- 💼 **Stamp 1G visa holder**, available for software engineering opportunities.
+- 🔥 Strong interest in **full-stack development**, **scalable system design**, and **cloud-native technologies**.
+- 🧠 Solid foundation in **algorithms**, **databases**, and **backend engineering**.
 
 ---
 
