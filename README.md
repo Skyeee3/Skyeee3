@@ -68,7 +68,8 @@ Key features:
 - Data synchronization with PostgreSQL and external APIs
 - Collaboration using Agile methodologies and Jira for task management
 
-🎥 **Project Demo Video:** [Watch Here](https://drive.google.com/file/d/1iKGmjVRYQEAxcXXw-jvIYO3FfOB1FZ2_/view)
+🎥 **Demo Video:** [Watch Here](https://drive.google.com/file/d/1iKGmjVRYQEAxcXXw-jvIYO3FfOB1FZ2_/view)
+🔗 **GitHub Repository:** [Tourwise Code](https://github.com/Skyeee3/COMP47360-Smart-Tourist-Guide)
 
 ---
 
